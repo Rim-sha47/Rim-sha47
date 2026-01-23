@@ -1,4 +1,5 @@
-# 💫 Hi 👋, I'm Rimsha Riaz *A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India*
+# 💫 Hi 👋, I'm Rimsha!
+A web developer exploring python and front-end development
 
 Email Me 👉 ✉ *rimshariaz327gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
@@ -9,7 +10,7 @@ Email Me 👉 ✉ *rimshariaz327gmail.com* For Collaboration/Project or Anything
 - 💬 Ask me about Collaboration: on web development and python projects.
 - 📫 How to reach me:rimshariaz327@gmail.com
 - 😄 *Pronouns:* Rishu*
-- ⚡ *Fun fact:* I can code better than I can sing
+- ⚡ *Fun fact:* I can code better than I can sing😅.
   ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rimshariaz_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@rim_sha47) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rimshariazgmail.com) 
 <!-- Snake Game Repo View -->
