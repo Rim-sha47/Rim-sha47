@@ -16,7 +16,23 @@
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
+     <p align="center">
 
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/rimsha_riaz/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" style="margin:10px;" alt="Instagram"/>
+  </a>
+
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@rim_sha47" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" width="40" style="margin:10px;" alt="TikTok"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:rimshariaz327@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" style="margin:10px;" alt="Email"/>
+  </a>  
+  
 ### 🚀 About Me
 
 <h2># 💫 Hi 👋, I'm Rimsha!
