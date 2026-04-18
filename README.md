@@ -18,36 +18,26 @@
      alt="Rainbow Line">
      <p align="center">
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/rimsha_riaz/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" style="margin:10px;" alt="Instagram"/>
-  </a>
-
-  <!-- TikTok -->
-  <a href="https://www.tiktok.com/@rim_sha47" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" width="40" style="margin:10px;" alt="TikTok"/>
-  </a>
-
   <!-- Email -->
-  <a href="mailto:rimshariaz327@gmail.com">
+<h2>contact me</h2>  <a href="mailto:rimshariaz327@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" style="margin:10px;" alt="Email"/>
   </a>  
   
 ### 🚀 About Me
 
-<h2># 💫 Hi 👋, I'm Rimsha!
+<H1>Hi</H1>    <h2> 💫  👋, I'm Rimsha!<h2></h2>
 A web developer exploring python and front-end development
 
 Email Me 👉 ✉ *rimshariaz327gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 *I’m currently working on:  optimizing performance and adding new functionalities.
-- 🌱 *I’m currently learning: and growing as a web developer and phyton developer.
-- 👯 *I’m looking to collaborate on: on creative front-end projects and UI improvements.
-- 🤔 *I’m looking for help with: feedback and suggestion for improvement.
+- 🔭 I’m currently working on:  optimizing performance and adding new functionalities.
+- 🌱 I’m currently learning: and growing as a web developer and phyton developer.
+- 👯 I’m looking to collaborate on: on creative front-end projects and UI improvements.
+- 🤔 I’m looking for help with: feedback and suggestion for improvement.
 - 💬 Ask me about Collaboration: on web development and python projects.
 - 📫 How to reach me:rimshariaz327@gmail.com
-- 😄 *Pronouns:* Rishu*
-- ⚡ *Fun fact:* I can code better than I can sing😅.
+- 😄 Pronouns: Rishu
+- ⚡ Fun fact: I can code better than I can sing😅.
   ## 🌐 Socials:<h2/>
     
 <!--chiziqni kodi-->
