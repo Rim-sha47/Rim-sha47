@@ -43,9 +43,6 @@ Email Me 👉 ✉ *rimshariaz327gmail.com* For Collaboration/Project or Anything
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
     
-nt-size: 10px;
-    text-align: center;
-    margin-top: 50px;
 
 <pre>
 ██╗    ██╗███████╗██████╗     ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
