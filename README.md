@@ -18,14 +18,10 @@
      alt="Rainbow Line">
      <p align="center">
 
-  <!-- Email -->
-<h2>contact me</h2>  <a href="mailto:rimshariaz327@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" style="margin:10px;" alt="Email"/>
-  </a>  
+
   
 ### 🚀 About Me
-
-<H1>Hi</H1>    <h2> 💫  👋, I'm Rimsha!<h2></h2>
+    <h2> 💫 Hi 👋, I'm Rimsha!<h2></h2>
 A web developer exploring python and front-end development
 
 Email Me 👉 ✉ *rimshariaz327gmail.com* For Collaboration/Project or Anything Else. 😊😊
@@ -45,12 +41,13 @@ Email Me 👉 ✉ *rimshariaz327gmail.com* For Collaboration/Project or Anything
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
      <pre align="center">
-██████╗ ██╗███╗   ███╗███████╗██╗  ██╗ █████╗     
-██╔══██╗██║████╗ ████║██╔════╝██║  ██║██╔══██╗    
-██████╔╝██║██╔████╔██║███████╗███████║███████║    
-██╔══██╗██║██║╚██╔╝██║╚════██║██╔══██║██╔══██║    
-██║  ██║██║██║ ╚═╝ ██║███████║██║  ██║██║  ██║    
-╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    
+     ██╗    ██╗███████╗██████╗     ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
+██║    ██║██╔════╝██╔══██╗    ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
+██║ █╗ ██║█████╗  ██████╔╝    ██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
+██║███╗██║██╔══╝  ██╔══██╗    ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
+╚███╔███╔╝███████╗██████╔╝    ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
+ ╚══╝╚══╝ ╚══════╝╚═════╝     ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
+
 </pre>
      
  <!--chiziqni kodi-->
