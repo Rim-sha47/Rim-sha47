@@ -21,7 +21,7 @@
 
   
 ### 🚀 About Me
-    <h2> 💫 Hi 👋, I'm Rimsha!<h2></h2>
+    <h2>💫 Hi 👋, I'm Rimsha!</h2>
 A web developer exploring python and front-end development
 
 Email Me 👉 ✉ *rimshariaz327gmail.com* For Collaboration/Project or Anything Else. 😊😊
@@ -40,15 +40,69 @@ Email Me 👉 ✉ *rimshariaz327gmail.com* For Collaboration/Project or Anything
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
-     <pre align="center">
-     ██╗    ██╗███████╗██████╗     ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
+    
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Colorful Web Developer</title>
+
+<style>
+body {
+    background: #0d0d0d;
+    margin: 0;
+    padding: 0;
+}
+
+/* COLORFUL ASCII */
+pre {
+    font-size: 10px;
+    text-align: center;
+    margin-top: 50px;
+
+    background: linear-gradient(90deg, red, orange, yellow, green, cyan, blue, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    text-shadow: 0 0 10px rgba(255,255,255,0.5),
+                 0 0 20px rgba(0,255,255,0.5),
+                 0 0 30px rgba(0,0,255,0.5);
+
+    overflow-x: auto;
+}
+
+/* ANIMATION */
+@keyframes glow {
+    0% { filter: brightness(1); }
+    50% { filter: brightness(1.5); }
+    100% { filter: brightness(1); }
+}
+
+pre {
+    animation: glow 2s infinite;
+}
+
+/* HOVER EFFECT */
+pre:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+</style>
+
+</head>
+<body>
+
+<pre>
+██╗    ██╗███████╗██████╗     ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
 ██║    ██║██╔════╝██╔══██╗    ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
 ██║ █╗ ██║█████╗  ██████╔╝    ██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
 ██║███╗██║██╔══╝  ██╔══██╗    ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
 ╚███╔███╔╝███████╗██████╔╝    ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
  ╚══╝╚══╝ ╚══════╝╚═════╝     ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
-
 </pre>
+
+</body>
+</html>
      
  <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
