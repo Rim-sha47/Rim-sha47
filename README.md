@@ -1,45 +1,39 @@
-# 👩‍💻 Rimsha Riaz
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=160&section=header&text=💻%20Hi%20👋,%20I'm%20Rimsha%20Riaz%20⚡&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+</div>
 
-### Aspiring Software Developer | Frontend Developer | Web Developer | Python Learner | UI Designer
+<!-- 👁 Profile Views -->
+<div align="center">
 
-> A passionate web developer exploring modern web technologies, frontend development, and Python programming.
+<img src="https://komarev.com/ghpvc/?username=Rim-sha47&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Rim-sha47?label=Followers&style=for-the-badge&color=1E90FF" />
+<img src="https://img.shields.io/badge/GitHub%20Grade-A+-orange?style=for-the-badge&logo=github" />
+
+</div>
+
+---
+
+<!-- 🔥 Animated Typing -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=💻+Frontend+Developer;🌐+Web+Developer;🐍+Python+Learner;🎨+UI+Designer;🚀+Building+Creative+Projects" />
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on improving projects and adding new features
-- 🌱 Learning Web Development, Python, PHP & MySQL
-- 👯 Looking to collaborate on creative frontend projects
-- 🤔 Open to feedback and suggestions
-- 💬 Ask me about Web Development and Python
-- 📫 Email: rimshariaz327@gmail.com
-- 😄 Nickname: Rishu
-- ⚡ Fun Fact: I can code better than I can sing 😅
+Hi 👋, I'm **Rimsha Riaz**
 
----
+A passionate web developer exploring frontend development and Python.
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Rim-sha47">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="https://leetcode.com/u/rimshariaz/">
-<img src="https://cdn.simpleicons.org/leetcode" height="50"/>
-</a>
-
-<a href="https://www.fiverr.com/rimshariaz327">
-<img src="https://cdn.simpleicons.org/fiverr" height="50"/>
-</a>
-
-<a href="mailto:rimshariaz327@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail" height="50"/>
-</a>
-
-</p>
+- 🔭 I’m currently working on: optimizing performance and adding new functionalities  
+- 🌱 I’m currently learning: Web Development & Python  
+- 👯 I’m looking to collaborate on: frontend & UI projects  
+- 🤔 I’m looking for help with: feedback and improvement suggestions  
+- 💬 Ask me about: web development projects  
+- 📫 Email: **rimshariaz327@gmail.com**  
+- 😄 Pronouns: Rishu  
+- ⚡ Fun fact: I can code better than I can sing 😅  
 
 ---
 
@@ -51,15 +45,31 @@
 
 ---
 
-# 🌍 Live Projects
+## 🌍 Live Projects
 
-| Project | Live Demo |
-|----------|----------|
-| 🏫 Providence School Website | https://theprovidence.kesug.com |
-| 🌐 Portfolio Website | https://rimsha-dev.vercel.app |
-| ✅ TaskMaster App | https://peetlamahesh123.github.io/taskmasterapp/ |
-| 🎮 Snake Game | https://rim-sha47.github.io/SnakeGame/ |
-| 🧩 WordHunt | https://wordhunt-kappa.vercel.app |
+🏫 [Providence School](https://theprovidence.kesug.com/)  
+🌐 [Portfolio Website](https://rimsha-dev.vercel.app/)  
+📋 [TaskMaster App](https://peetlamahesh123.github.io/taskmasterapp/)  
+🎮 [Snake Game](https://rim-sha47.github.io/SnakeGame/)  
+🧩 [WordHunt Game](https://wordhunt-kappa.vercel.app/)  
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/Rim-sha47  
+- Portfolio: https://rimsha-dev.vercel.app  
+- LeetCode: https://leetcode.com/u/rimshariaz/  
+- Fiverr: https://www.fiverr.com/rimshariaz327  
+- Email: **rimshariaz327@gmail.com**
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rim-sha47&theme=react-dark" />
+</p>
 
 ---
 
@@ -80,150 +90,69 @@
 
 ---
 
-## 🔥 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rim-sha47&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
-
 ## 🏆 Highlights
 
-- 💻 Active Frontend Developer
-- 🚀 Multiple Live Projects Deployed
-- 🎓 School Management System Developer
-- 🌐 Portfolio & Business Websites Created
-- 🧠 Learning DSA & Problem Solving
-- 🏫 Educational Project Development
+- 💻 Frontend Developer  
+- 🚀 Multiple Live Projects  
+- 🎮 Game Development Projects  
+- 🧠 Learning Python & DSA  
+- 🌐 Portfolio & Web Apps  
 
 ---
 
-## 💻 Programming Languages
+## 💻 Skills
 
-- JavaScript
-- Python
-- PHP
-- HTML
-- CSS
+### Frontend
+HTML • CSS • JavaScript • Bootstrap • Tailwind
 
----
+### Backend
+PHP • MySQL • Python
 
-## 🎨 Frontend Technologies
-
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Tailwind CSS
-- Responsive Design
-- UI/UX Design
+### Tools
+Git • GitHub • VS Code • Figma
 
 ---
 
-## ⚙️ Backend Technologies
-
-- PHP
-- Python
-- MySQL
-
----
-
-## 🗄️ Databases
-
-- MySQL
-- SQLite
-
----
-
-## 🔁 Version Control
-
-- Git
-- GitHub
-
----
-
-## 🧑‍💻 IDE & Editors
-
-- VS Code
-- PyCharm
-
----
-
-## 🛠️ Design Tools
-
-- Figma
-- Canva
-
----
-
-# 📌 Projects
+## 📌 Projects
 
 ### 🏫 Providence School Website
-HTML, CSS, JavaScript based responsive school website.
+https://theprovidence.kesug.com/
 
 ### 🌐 Portfolio Website
-Modern portfolio showcasing projects and skills.
+https://rimsha-dev.vercel.app/
 
-### ✅ TaskMaster App
-Task management application with productivity features.
+### 📋 TaskMaster App
+https://peetlamahesh123.github.io/taskmasterapp/
 
 ### 🎮 Snake Game
-Interactive JavaScript game with score tracking.
+https://rim-sha47.github.io/SnakeGame/
 
-### 🧩 WordHunt
-Word puzzle game built using JavaScript.
-
-### 🎵 Spotify Clone
-Spotify-inspired music player UI.
-
-### 🎓 Student Management System
-Python-based system for managing students and results.
+### 🧩 WordHunt Game
+https://wordhunt-kappa.vercel.app/
 
 ---
 
-## 📚 Currently Learning
+## 🐍 Contribution Snake
 
-- React.js
-- Advanced JavaScript
-- PHP & MySQL
-- Data Structures & Algorithms
-- Git & GitHub
-
----
-
-## 🎯 Future Goals
-
-- Become Full Stack Developer
-- Master React & Next.js
-- Solve More LeetCode Problems
-- Build SaaS Products
-- Start Freelancing Professionally
-
----
-
-## 🏆 Achievements
-
-- 🏅 Developed Multiple Live Projects
-- 🏅 Built Responsive Websites
-- 🏅 Created Student Management System
-- 🏅 Active GitHub Contributor
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rim-sha47/Rim-sha47/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
 ## 📞 Contact Me
 
-- 📧 Email: rimshariaz327@gmail.com
-- 🌐 Portfolio: https://rimsha-dev.vercel.app
-- 💼 Fiverr: https://www.fiverr.com/rimshariaz327
-- 💻 GitHub: https://github.com/Rim-sha47
-- 🧠 LeetCode: https://leetcode.com/u/rimshariaz/
+📧 Email: **rimshariaz327@gmail.com**  
+🌐 Portfolio: https://rimsha-dev.vercel.app  
+💼 Fiverr: https://www.fiverr.com/rimshariaz327  
+💻 GitHub: https://github.com/Rim-sha47  
+🧠 LeetCode: https://leetcode.com/u/rimshariaz/  
 
 ---
 
-# 💜 Thanks For Visiting My Profile 💜
-
-### Keep Learning • Keep Building • Keep Growing 🚀
+<div align="center">
+💜 Thanks for visiting my profile 💜  
+</div>
 
 
 
