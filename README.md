@@ -2,73 +2,131 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=160&section=header&text=💻%20Hi%20👋,%20I'm%20Rimsha%20Riaz%20⚡&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-<!-- 👁 Profile Views -->
+---
+
+<!-- PROFILE BADGES -->
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Rim-sha47&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/Rim-sha47?label=Followers&style=for-the-badge&color=1E90FF" />
-<img src="https://img.shields.io/badge/GitHub%20Grade-A+-orange?style=for-the-badge&logo=github" />
 
 </div>
 
 ---
 
-<!-- 🔥 Animated Typing -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=💻+Frontend+Developer;🌐+Web+Developer;🐍+Python+Learner;🎨+UI+Designer;🚀+Building+Creative+Projects" />
-</div>
+## 💫 About Me
 
----
+👩‍💻 Hi, I'm **Rimsha Riaz**  
+A passionate **Frontend Developer | Web Developer | Python Learner | UI Designer**
 
-## 🚀 About Me
-
-Hi 👋, I'm **Rimsha Riaz**
-
-A passionate web developer exploring frontend development and Python.
-
-- 🔭 I’m currently working on: optimizing performance and adding new functionalities  
-- 🌱 I’m currently learning: Web Development & Python  
-- 👯 I’m looking to collaborate on: frontend & UI projects  
-- 🤔 I’m looking for help with: feedback and improvement suggestions  
-- 💬 Ask me about: web development projects  
+- 🔭 Working on: Performance optimization & new features  
+- 🌱 Learning: Web Development & Python  
+- 👯 Collaboration: Frontend & UI Projects  
+- 💬 Ask me about: Web Development  
 - 📫 Email: **rimshariaz327@gmail.com**  
 - 😄 Pronouns: Rishu  
-- ⚡ Fun fact: I can code better than I can sing 😅  
+- ⚡ Fun fact: I code better than I sing 😅  
 
 ---
 
-## 🚀 Most Used Technologies
+## 🚀 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=java,js,python,c" />
+</p>
+
+---
+
+## ⚙ Backend Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+---
+
+## 🎨 Frontend Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap,tailwind" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis" />
+</p>
+
+---
+
+## 🔁 Version Control
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
+</p>
+
+---
+
+## 🚀 DevOps & Deployment
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp" />
+</p>
+
+---
+
+## 📦 Build Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=maven,gradle,npm" />
+</p>
+
+---
+
+## 🧑‍💻 IDE & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,figma" />
 </p>
 
 ---
 
 ## 🌍 Live Projects
 
-🏫 [Providence School](https://theprovidence.kesug.com/)  
-🌐 [Portfolio Website](https://rimsha-dev.vercel.app/)  
-📋 [TaskMaster App](https://peetlamahesh123.github.io/taskmasterapp/)  
-🎮 [Snake Game](https://rim-sha47.github.io/SnakeGame/)  
-🧩 [WordHunt Game](https://wordhunt-kappa.vercel.app/)  
+- 🏫 [Providence School](https://theprovidence.kesug.com/)  
+- 🌐 [Portfolio](https://rimsha-dev.vercel.app/)  
+- 📋 [TaskMaster App](https://peetlamahesh123.github.io/taskmasterapp/)  
+- 🎮 [Snake Game](https://rim-sha47.github.io/SnakeGame/)  
+- 🧩 [WordHunt](https://wordhunt-kappa.vercel.app/)  
 
 ---
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/Rim-sha47  
-- Portfolio: https://rimsha-dev.vercel.app  
-- LeetCode: https://leetcode.com/u/rimshariaz/  
-- Fiverr: https://www.fiverr.com/rimshariaz327  
-- Email: **rimshariaz327@gmail.com**
-
----
-
-## 🔥 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rim-sha47&theme=react-dark" />
+
+<a href="https://github.com/Rim-sha47">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="mailto:rimshariaz327@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+<a href="https://leetcode.com/u/rimshariaz/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
+</a>
+
+<a href="https://www.fiverr.com/rimshariaz327">
+<img src="https://img.icons8.com/color/48/fiverr.png" width="45"/>
+</a>
+
+<a href="https://rimsha-dev.vercel.app">
+<img src="https://img.icons8.com/color/48/domain.png" width="45"/>
+</a>
+
 </p>
 
 ---
@@ -82,53 +140,11 @@ A passionate web developer exploring frontend development and Python.
 
 ---
 
-## 💻 Most Used Languages
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rim-sha47&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rim-sha47&theme=react-dark"/>
 </p>
-
----
-
-## 🏆 Highlights
-
-- 💻 Frontend Developer  
-- 🚀 Multiple Live Projects  
-- 🎮 Game Development Projects  
-- 🧠 Learning Python & DSA  
-- 🌐 Portfolio & Web Apps  
-
----
-
-## 💻 Skills
-
-### Frontend
-HTML • CSS • JavaScript • Bootstrap • Tailwind
-
-### Backend
-PHP • MySQL • Python
-
-### Tools
-Git • GitHub • VS Code • Figma
-
----
-
-## 📌 Projects
-
-### 🏫 Providence School Website
-https://theprovidence.kesug.com/
-
-### 🌐 Portfolio Website
-https://rimsha-dev.vercel.app/
-
-### 📋 TaskMaster App
-https://peetlamahesh123.github.io/taskmasterapp/
-
-### 🎮 Snake Game
-https://rim-sha47.github.io/SnakeGame/
-
-### 🧩 WordHunt Game
-https://wordhunt-kappa.vercel.app/
 
 ---
 
@@ -140,19 +156,17 @@ https://wordhunt-kappa.vercel.app/
 
 ---
 
-## 📞 Contact Me
+## 🏆 Highlights
 
-📧 Email: **rimshariaz327@gmail.com**  
-🌐 Portfolio: https://rimsha-dev.vercel.app  
-💼 Fiverr: https://www.fiverr.com/rimshariaz327  
-💻 GitHub: https://github.com/Rim-sha47  
-🧠 LeetCode: https://leetcode.com/u/rimshariaz/  
+- 💻 Frontend Developer  
+- 🚀 Multiple Live Projects  
+- 🎮 Game Development  
+- 🧠 Learning Python & DSA  
+- 🌐 Portfolio Developer  
 
 ---
 
-<div align="center">
-💜 Thanks for visiting my profile 💜  
-</div>
+## 💜 Thanks for visiting my profile 💜
 
 
 
