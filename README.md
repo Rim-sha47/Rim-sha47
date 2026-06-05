@@ -3,14 +3,18 @@
 </div>
 
 ---
-
 <!-- PROFILE BADGES -->
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Rim-sha47&label=Profile%20Views&color=ff4d6d&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Rim-sha47?label=Followers&style=for-the-badge&color=8338ec" />
+
+<img src="https://img.shields.io/github/followers/Rim-sha47?style=for-the-badge&color=8338ec" />
+
+<img src="https://img.shields.io/badge/GitHub-Developer-0A66C2?style=for-the-badge&logo=github" />
 
 </div>
+
+
 <!-- 🔥 Animated Typing -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=FF4ECD&center=true&vCenter=true&width=900&height=90&lines=👩‍💻+Frontend+Web+Developer;🌐+Web+Development+Student;🐍+Python+Learner;🎨+UI%2FUX+Design+Explorer;🚀+Building+Real+World+Projects;💡+Learning+New+Technologies+Every+Day" />
@@ -190,16 +194,10 @@ A passionate **Frontend Developer | Web Developer | Python Learner | UI Designer
 
 ---
 
-<h2 align="center"> 🐍 Contribution Snake </h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rim-sha47/Rim-sha47/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rim-sha47/Rim-sha47/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Rim-sha47/Rim-sha47/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
