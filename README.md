@@ -83,7 +83,6 @@ A passionate **Frontend Developer | Web Developer | Python Learner | UI Designer
 </p>
 
 ---
-<h2 align="center"> 🐍 Contribution Snake </h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rim-sha47/Rim-sha47/output/github-contribution-grid-snake-dark.svg" />
@@ -194,12 +193,10 @@ A passionate **Frontend Developer | Web Developer | Python Learner | UI Designer
 
 ---
 
-## 🐍 Contribution Snake
-
+<!-- 🐍 Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rim-sha47/Rim-sha47/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/snake.svg" alt="snake animation"/>
 </p>
-
 ---
 
 ## 🏆 Highlights
