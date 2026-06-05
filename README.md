@@ -1,15 +1,45 @@
- 👩‍💻 Rimsha Riaz
+# 👩‍💻 Rimsha Riaz
 
 ### Aspiring Software Developer | Frontend Developer | Web Developer | Python Learner | UI Designer
-- 🔭 I’m currently working on:  optimizing performance and adding new functionalities.
-- 🌱 I’m currently learning: and growing as a web developer and phyton developer.
-- 👯 I’m looking to collaborate on: on creative front-end projects and UI improvements.
-- 🤔 I’m looking for help with: feedback and suggestion for improvement.
-- 💬 Ask me about Collaboration: on web development and python projects.
-- 📫 How to reach me:rimshariaz327@gmail.com
-- 😄 Pronouns: Rishu
-- ⚡ Fun fact: I can code better than I can sing😅.
-- 
+
+> A passionate web developer exploring modern web technologies, frontend development, and Python programming.
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on improving projects and adding new features
+- 🌱 Learning Web Development, Python, PHP & MySQL
+- 👯 Looking to collaborate on creative frontend projects
+- 🤔 Open to feedback and suggestions
+- 💬 Ask me about Web Development and Python
+- 📫 Email: rimshariaz327@gmail.com
+- 😄 Nickname: Rishu
+- ⚡ Fun Fact: I can code better than I can sing 😅
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Rim-sha47">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://leetcode.com/u/rimshariaz/">
+<img src="https://cdn.simpleicons.org/leetcode" height="50"/>
+</a>
+
+<a href="https://www.fiverr.com/rimshariaz327">
+<img src="https://cdn.simpleicons.org/fiverr" height="50"/>
+</a>
+
+<a href="mailto:rimshariaz327@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail" height="50"/>
+</a>
+
+</p>
 
 ---
 
@@ -21,29 +51,15 @@
 
 ---
 
-## 🌍 Live Projects
+# 🌍 Live Projects
 
-🏫 Providence School Website | 🌐 Portfolio Website | ✅ TaskMaster App
-
-🎮 Snake Game | 🧩 WordHunt | 🎵 Spotify Clone
-
-🎓 Student Management System
-
----
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/Rim-sha47
-- Portfolio: https://rimsha-dev.vercel.app
-- LeetCode: https://leetcode.com/u/rimshariaz/
-- Fiverr: https://www.fiverr.com/rimshariaz327
-- Email: rimshariaz327@gmail.com
-
----
-
-## 🔥 Contribution Overview
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rim-sha47&theme=react-dark)
+| Project | Live Demo |
+|----------|----------|
+| 🏫 Providence School Website | https://theprovidence.kesug.com |
+| 🌐 Portfolio Website | https://rimsha-dev.vercel.app |
+| ✅ TaskMaster App | https://peetlamahesh123.github.io/taskmasterapp/ |
+| 🎮 Snake Game | https://rim-sha47.github.io/SnakeGame/ |
+| 🧩 WordHunt | https://wordhunt-kappa.vercel.app |
 
 ---
 
@@ -64,20 +80,22 @@
 
 ---
 
+## 🔥 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rim-sha47&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
 ## 🏆 Highlights
 
-💻 Active Frontend Developer
-
-🚀 Multiple Live Projects Deployed
-
-🎓 School Management System Developer
-
-🌐 Portfolio & Business Websites Created
-
-🧠 Learning DSA & Problem Solving
-
-🏫 Educational Project Development
-
+- 💻 Active Frontend Developer
+- 🚀 Multiple Live Projects Deployed
+- 🎓 School Management System Developer
+- 🌐 Portfolio & Business Websites Created
+- 🧠 Learning DSA & Problem Solving
+- 🏫 Educational Project Development
 
 ---
 
@@ -96,18 +114,18 @@
 - HTML5
 - CSS3
 - JavaScript
-- Responsive Design
-- UI/UX Design
 - Bootstrap
 - Tailwind CSS
+- Responsive Design
+- UI/UX Design
 
 ---
 
 ## ⚙️ Backend Technologies
 
 - PHP
-- MySQL
 - Python
+- MySQL
 
 ---
 
@@ -141,167 +159,26 @@
 
 # 📌 Projects
 
-## 🏫 Providence School Website
+### 🏫 Providence School Website
+HTML, CSS, JavaScript based responsive school website.
 
-**Tech Stack:** HTML | CSS | JavaScript
+### 🌐 Portfolio Website
+Modern portfolio showcasing projects and skills.
 
-- Responsive school website
-- Admissions information
-- School management details
-- Modern UI Design
+### ✅ TaskMaster App
+Task management application with productivity features.
 
-🔗 Live Demo: https://theprovidence.kesug.com/
+### 🎮 Snake Game
+Interactive JavaScript game with score tracking.
 
----
+### 🧩 WordHunt
+Word puzzle game built using JavaScript.
 
-## 🌐 Personal Portfolio Website
+### 🎵 Spotify Clone
+Spotify-inspired music player UI.
 
-**Tech Stack:** HTML | CSS | JavaScript
-
-- Modern portfolio design
-- Responsive layout
-- Project showcase
-- Contact section
-
-🔗 Live Demo: https://rimsha-dev.vercel.app
-
----
-
-## ✅ TaskMaster App
-
-**Tech Stack:** HTML | CSS | JavaScript
-
-- Task management application
-- Productivity dashboard
-- User-friendly interface
-
-🔗 Live Demo: https://peetlamahesh123.github.io/taskmasterapp/
-
----
-
-## 🎮 Snake Game
-## 🌐 Socials:<h2/>
-    
-<!--chiziqni kodi-->
-<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
-     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
-     alt="Rainbow Line">
-    
-
-<pre>
-██╗    ██╗███████╗██████╗     ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
-██║    ██║██╔════╝██╔══██╗    ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
-██║ █╗ ██║█████╗  ██████╔╝    ██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
-██║███╗██║██╔══╝  ██╔══██╗    ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
-╚███╔███╔╝███████╗██████╔╝    ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
- ╚══╝╚══╝ ╚══════╝╚═════╝     ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
-</pre>
-
-</body>
-</html>
-     
- <!--chiziqni kodi-->
-<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
-     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
-     alt="Rainbow Line">       
- 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-</p>
-<!--chiziqni kodi-->
-<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
-     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
-     alt="Rainbow Line">
-<!--Statistikani kodi-->
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=sultonbektoxirboyev&show_icons=true&theme=tokyonight">
-  <img src="https://streak-stats.demolab.com/?user=sultonbektoxirboyev&theme=tokyonight" height="160">
-</p>
-📊 GitHub Analytics
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sultonbektoxirboyev&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
- 
-<!-- chiziq -->
-<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca"
-     style="width:100%; height:auto; display:block; margin:0; padding:0;"
-     alt="Rainbow Line">
-
-<!-- 🐍 Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/snake.svg" alt="snake animation"/>
-</p>
-
-<!-- chiziq -->
-<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca"
-     style="width:100%; height:auto; display:block; margin:0; padding:0;"
-     alt="Rainbow Line">
-
-<!-- Pacman Contribution -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505" alt="pacman contribution graph"/>
-</p>
-<!--chiziqni kodi-->
-<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
-     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
-     alt="Rainbow Line">
-
-<!--hayrlashuv-->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=140&section=footer&text=Thanks%20for%20Visiting%20My%20Project!&fontSize=35&fontColor=ffffff&animation=twinkling"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+checking+out+my+project!;Hope+you+liked+it!;Don't+forget+to+star"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sultonbektoxirboyev&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-</p>
-
-
-**Tech Stack:** JavaScript
-
-- Interactive gameplay
-- Score tracking
-- Responsive design
-
-🔗 Live Demo: https://rim-sha47.github.io/SnakeGame/
-
----
-
-## 🧩 WordHunt
-
-**Tech Stack:** HTML | CSS | JavaScript
-
-- Word puzzle game
-- Interactive UI
-- Fun learning experience
-
-🔗 Live Demo: https://wordhunt-kappa.vercel.app
-
----
-
-## 🎵 Spotify Clone
-
-**Tech Stack:** HTML | CSS | JavaScript
-
-- Spotify inspired UI
-- Music player design
-- Responsive layout
-
----
-
-## 🎓 Student Management System
-
-**Tech Stack:** Python
-
-- Student records management
-- Attendance tracking
-- Result management
-- Performance reports
+### 🎓 Student Management System
+Python-based system for managing students and results.
 
 ---
 
@@ -319,7 +196,7 @@
 
 - Become Full Stack Developer
 - Master React & Next.js
-- Solve 500+ LeetCode Problems
+- Solve More LeetCode Problems
 - Build SaaS Products
 - Start Freelancing Professionally
 
@@ -327,35 +204,20 @@
 
 ## 🏆 Achievements
 
-🏅 Developed Multiple Live Projects
-
-🏅 Created School Management System
-
-🏅 Built Responsive Business Websites
-
-🏅 Active GitHub Contributor
-
-🏅 Learning Modern Web Technologies
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/Rim-sha47/Rim-sha47/output/github-contribution-grid-snake.svg)
+- 🏅 Developed Multiple Live Projects
+- 🏅 Built Responsive Websites
+- 🏅 Created Student Management System
+- 🏅 Active GitHub Contributor
 
 ---
 
 ## 📞 Contact Me
 
-📧 Email: rimshariaz327@gmail.com
-
-🌐 Portfolio: https://rimsha-dev.vercel.app
-
-💼 Fiverr: https://www.fiverr.com/rimshariaz327
-
-💻 GitHub: https://github.com/Rim-sha47
-
-🧠 LeetCode: https://leetcode.com/u/rimshariaz/
+- 📧 Email: rimshariaz327@gmail.com
+- 🌐 Portfolio: https://rimsha-dev.vercel.app
+- 💼 Fiverr: https://www.fiverr.com/rimshariaz327
+- 💻 GitHub: https://github.com/Rim-sha47
+- 🧠 LeetCode: https://leetcode.com/u/rimshariaz/
 
 ---
 
