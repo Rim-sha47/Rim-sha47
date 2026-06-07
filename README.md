@@ -209,6 +209,11 @@ A passionate **Frontend Developer | Web Developer | Python Learner | UI Designer
 - <table align="center">
 <tr>
 <td align="center">
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rim-sha47&theme=tokyonight&no-frame=true&row=2&column=4" />
+</p>
 
 <a href="https://www.google.com/maps/search/?api=1&query=Sargodha,+Punjab,+Pakistan" target="_blank">
   <img src="https://img.icons8.com/fluency/48/marker.png" width="50"/>
@@ -227,6 +232,16 @@ A passionate **Frontend Developer | Web Developer | Python Learner | UI Designer
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d6d,25:8338ec,50:3a86ff,75:06d6a0,100:ffbe0b&height=120&section=footer&animation=fadeIn" />
 </div>
+## 💡 Daily Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+## 🎧 Currently Listening
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default" />
+</p>
 
 ---
 
