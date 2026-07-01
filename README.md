@@ -549,16 +549,11 @@ Currently exploring modern Artificial Intelligence technologies.
 <img src="https://ghchart.rshah.org/8338EC/Rim-sha47" alt="GitHub Contribution Chart"/>
 
 </p>
-
----
-
-# 🐍 Contribution Snake Animation
-
+<!-- 🐍 Contribution Snake -->
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Rim-sha47/Rim-sha47/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
+  <img src="https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/snake.svg" alt="snake animation"/>
 </p>
+
 
 ---
 
