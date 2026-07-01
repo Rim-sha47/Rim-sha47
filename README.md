@@ -122,7 +122,7 @@ A passionate **Frontend Developer | Web Developer | Python Learner | UI Designer
 
 ## 🌍 Live Projects
 
-- 🏫 [Providence School](https://theprovidence.kesug.com/)  
+- 🏫 [Providence School](https://providenceschool-website.vercel.app/) 
 - 🌐 [Portfolio](https://rimsha-dev.vercel.app/)  
 - 📋 [TaskMaster App](https://peetlamahesh123.github.io/taskmasterapp/)  
 - 🎮 [Snake Game](https://rim-sha47.github.io/SnakeGame/)  
