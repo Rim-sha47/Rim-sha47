@@ -942,13 +942,7 @@ Pillow
 
 Git & GitHub
 
----
 
-## 🚀 GitHub Repository
-
-👉 *(Add your public HireBot repository link here)*
-
----
 
 # 📊 Project Highlights
 
