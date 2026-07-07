@@ -574,7 +574,243 @@ LLMs
 
 ---
 
-# 💻 Most Used Languages
+<h2 align="center"> 🚀 Most Used Technologies </h2>
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="40"/><br>
+<sub>HTML5</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="40"/><br>
+<sub>CSS3</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="40"/><br>
+<sub>JavaScript</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="40"/><br>
+<sub>React.js</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>
+<sub>Node.js</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="40"/><br>
+<sub>Express.js</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=php" width="40"/><br>
+<sub>PHP</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="40"/><br>
+<sub>Python</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>
+<sub>MySQL</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>
+<sub>MongoDB</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="40"/><br>
+<sub>Git</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="40"/><br>
+<sub>GitHub</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vercel" width="40"/><br>
+<sub>Vercel</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>
+<sub>VS Code</sub>
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center"> 🌍 Live Projects </h2>
+
+<p align="center">
+
+🤝 <a href="YOUR_SKILLLINKED_LINK">SkillLinked</a> &nbsp; | &nbsp;
+
+🤖 <a href="YOUR_HIREBOT_LINK">HireBot AI</a> &nbsp; | &nbsp;
+
+🛒 <a href="YOUR_FURNITURE_STORE_LINK">Furniture Store</a> &nbsp; | &nbsp;
+
+🛍️ <a href="https://rim-sha47.github.io/ecommerce/">E-Commerce</a>
+
+</p>
+
+<p align="center">
+
+🌐 <a href="https://rimsha-dev.vercel.app">Portfolio</a> &nbsp; | &nbsp;
+
+🐍 <a href="https://rim-sha47.github.io/SnakeGame/">Snake Game</a> &nbsp; | &nbsp;
+
+🧩 <a href="https://wordhunt-kappa.vercel.app">Word Hunt</a> &nbsp; | &nbsp;
+
+🏫 <a href="https://providenceschool-website.vercel.app/">Providence School</a>
+
+</p>
+
+---
+
+<h2 align="center"> 🔥 Contribution Graph </h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rim-sha47&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+<h2 align="center"> 🌐 Connect With Me </h2>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="120">
+
+<a href="https://github.com/Rim-sha47">
+
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>
+
+<sub><b>GitHub</b></sub>
+
+</a>
+
+</td>
+
+<td align="center" width="120">
+
+<a href="mailto:rimshariaz327@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/><br>
+
+<sub><b>Email</b></sub>
+
+</a>
+
+</td>
+
+<td align="center" width="120">
+
+<a href="https://rimsha-dev.vercel.app">
+
+<img src="https://img.icons8.com/color/48/domain.png" width="50"/><br>
+
+<sub><b>Portfolio</b></sub>
+
+</a>
+
+</td>
+
+<td align="center" width="120">
+
+<a href="https://leetcode.com/u/rimshariaz/">
+
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50"/><br>
+
+<sub><b>LeetCode</b></sub>
+
+</a>
+
+</td>
+
+<td align="center" width="120">
+
+<a href="https://www.fiverr.com/rimshariaz327">
+
+<img src="https://img.icons8.com/color/48/fiverr.png" width="50"/><br>
+
+<sub><b>Fiverr</b></sub>
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center"> 🔥 GitHub Streak </h2>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rim-sha47&theme=midnight-purple&hide_border=true"/>
+
+</p>
+
+---
+
+<h2 align="center"> 📊 GitHub Stats </h2>
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rim-sha47&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rim-sha47&theme=midnight_purple"/>
+
+</p>
+
+---
+
+<h2 align="center"> 💻 Most Used Languages </h2>
+
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rim-sha47&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</p>
+
+---
+
+<h2 align="center"> 🏆 GitHub Profile Summary </h2>
+
+<p align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rim-sha47&theme=midnight_purple"/>
+
+</p>
+
+---
 
 <div align="center">
 
