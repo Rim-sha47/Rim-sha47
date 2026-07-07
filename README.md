@@ -819,14 +819,6 @@ LLMs
 
 
 
-# 🏆 GitHub Profile Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rim-sha47&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
 
 
 # 📈 Contribution Graph
@@ -837,14 +829,8 @@ LLMs
 
 </div>
 
----
 
-# 📊 GitHub Profile Summary
-<p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rim-sha47&theme=tokyonight"/>
-
-</p>
 
 <div align="center">
 
@@ -864,7 +850,7 @@ LLMs
 
 </div>
 
----
+
 
 # 🐍 Contribution Snake
 
@@ -874,9 +860,8 @@ LLMs
 
 </div>
 
-> **Note:** Snake animation tabhi show hogi jab tum apni GitHub profile repository me GitHub Actions se snake workflow setup karogi.
+> 
 
----
 
 # 🚀 Development Snapshot
 
