@@ -578,21 +578,20 @@ LLMs
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rim-sha47&layout=compact&theme=midnight-purple&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rim-sha47&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
----
+
 
 # 🏆 GitHub Profile Trophy
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Rim-sha47&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rim-sha47&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
----
+
 
 # 📈 Contribution Graph
 
@@ -605,14 +604,11 @@ LLMs
 ---
 
 # 📊 GitHub Profile Summary
+<p align="center">
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rim-sha47&theme=tokyonight"/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rim-sha47&theme=github_dark"/>
-
-</div>
-
----
+</p>
 
 <div align="center">
 
