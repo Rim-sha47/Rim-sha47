@@ -115,13 +115,13 @@ My goal is to become an **AI-powered Software Engineer** capable of building ent
 
 </table>
 
----
+
 
 # 🌟 Professional Summary
 
 > Passionate Full Stack Developer focused on building modern, scalable and responsive web applications with clean UI/UX and efficient backend systems. Currently expanding expertise in Artificial Intelligence to develop intelligent software solutions for real-world problems.
 
----
+
 
 ## ⚡ Quick Facts
 
@@ -135,7 +135,7 @@ My goal is to become an **AI-powered Software Engineer** capable of building ent
 - 🚀 Continuous Learner
 - 💜 Open Source Explorer
 
----
+
 
 ## 🎯 Current Focus
 
@@ -251,7 +251,7 @@ My goal is to become an **AI-powered Software Engineer** capable of building ent
 
 </div>
 
----
+
 
 # 🎨 Frontend Development
 
@@ -327,7 +327,7 @@ Responsive UI
 
 </div>
 
----
+
 
 # ⚙️ Backend Development
 
@@ -535,7 +535,7 @@ LLMs
 
 </div>
 
----
+
 
 # 🛠️ Development Tools
 
@@ -545,7 +545,7 @@ LLMs
 
 </div>
 
----
+
 
 # 💎 Core Strengths
 
@@ -568,11 +568,10 @@ LLMs
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rim-sha47&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Rim-sha47&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
----
+
 
 <h2 align="center"> 🚀 Most Used Technologies </h2>
 
@@ -580,20 +579,14 @@ LLMs
 
 <tr>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="40"/><br>
-<sub>HTML5</sub>
-</td>
+
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=css" width="40"/><br>
 <sub>CSS3</sub>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="40"/><br>
-<sub>JavaScript</sub>
-</td>
+
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=react" width="40"/><br>
@@ -662,17 +655,7 @@ LLMs
 
 <h2 align="center"> 🌍 Live Projects </h2>
 
-<p align="center">
 
-🤝 <a href="YOUR_SKILLLINKED_LINK">SkillLinked</a> &nbsp; | &nbsp;
-
-🤖 <a href="YOUR_HIREBOT_LINK">HireBot AI</a> &nbsp; | &nbsp;
-
-🛒 <a href="YOUR_FURNITURE_STORE_LINK">Furniture Store</a> &nbsp; | &nbsp;
-
-🛍️ <a href="https://rim-sha47.github.io/ecommerce/">E-Commerce</a>
-
-</p>
 
 <p align="center">
 
@@ -746,7 +729,7 @@ LLMs
 
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50"/><br>
 
-<sub><b>LeetCode</b></sub>
+
 
 </a>
 
@@ -778,7 +761,7 @@ LLMs
 
 </p>
 
----
+
 
 <h2 align="center"> 📊 GitHub Stats </h2>
 
@@ -792,25 +775,8 @@ LLMs
 
 ---
 
-<h2 align="center"> 💻 Most Used Languages </h2>
 
-<p align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rim-sha47&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</p>
-
----
-
-<h2 align="center"> 🏆 GitHub Profile Summary </h2>
-
-<p align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rim-sha47&theme=midnight_purple"/>
-
-</p>
-
----
 
 <div align="center">
 
@@ -846,7 +812,6 @@ LLMs
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rim-sha47&theme=github_dark"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rim-sha47&theme=github_dark&utcOffset=5"/>
 
 </div>
 
@@ -860,7 +825,6 @@ LLMs
 
 </div>
 
-> 
 
 
 # 🚀 Development Snapshot
