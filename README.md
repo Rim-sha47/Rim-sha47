@@ -715,11 +715,11 @@ LLMs
 
 <p align="center">
 
-🌐 <a href="https://rimsha-dev.vercel.app">Portfolio</a> &nbsp; | &nbsp;
+🌐 <a href="https://rimsha-dev.vercel.app">Portfolio</a> &nbsp;  &nbsp;
 
-🐍 <a href="https://rim-sha47.github.io/SnakeGame/">Snake Game</a> &nbsp; | &nbsp;
+🐍 <a href="https://rim-sha47.github.io/SnakeGame/">Snake Game</a> &nbsp;  &nbsp;
 
-🧩 <a href="https://wordhunt-kappa.vercel.app">Word Hunt</a> &nbsp; | &nbsp;
+🧩 <a href="https://wordhunt-kappa.vercel.app">Word Hunt</a> &nbsp; &nbsp;
 
 🏫 <a href="https://providenceschool-website.vercel.app/">Providence School</a>
 
@@ -727,35 +727,12 @@ LLMs
 
 
 
-
-<h2 align="center"> 📊 GitHub Stats </h2>
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rim-sha47&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rim-sha47&theme=midnight_purple"/>
-
-</p>
-
 # 📈 Contribution Graph
 <h2 align="center"> 💜 Contribution Graph </h2>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rim-sha47&bg_color=0D1117&color=A855F7&line=C084FC&point=FFFFFF&area=true&hide_border=true"/>
 </p>
-
-
-
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Rim-sha47/Rim-sha47/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
 
 
 # 🚀 Development Snapshot
