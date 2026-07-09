@@ -561,7 +561,7 @@ LLMs
 | Database Design | ⭐⭐⭐⭐☆ |
 | AI Integration | ⭐⭐⭐⭐☆ |
 | Problem Solving | ⭐⭐⭐⭐⭐ |
-<h2 align="center"> 🚀 Tech Stack & Tools </h2>
+<h2 align="center"> 🚀 Most used technologies </h2>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -638,10 +638,6 @@ LLMs
   </a>
 </p>
 
-<p align="center">
-  💜 <b>Full Stack Developer • MERN Stack Learner • AI Enthusiast • UI/UX Lover</b>
-</p>
-
 
 <div align="center">
 
@@ -649,7 +645,6 @@ LLMs
 
 </div>
 
----
 
 <h2 align="center"> 🌍 Live Projects </h2>
 
