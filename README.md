@@ -561,145 +561,87 @@ LLMs
 | Database Design | ⭐⭐⭐⭐☆ |
 | AI Integration | ⭐⭐⭐⭐☆ |
 | Problem Solving | ⭐⭐⭐⭐⭐ |
+<h2 align="center"> 🚀 Tech Stack & Tools </h2>
 
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vite" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=supabase" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+  <a href="https://www.netlify.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=netlify" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=npm" />
+  </a>
+</p>
 
+<p align="center">
+  💜 <b>Full Stack Developer • MERN Stack Learner • AI Enthusiast • UI/UX Lover</b>
+</p>
 
-
-<h2 align="center"> 🚀 Most Used Technologies </h2>
-
-
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap,nodejs,express,php,python,mysql,mongodb,firebase,supabase,git,github,vercel,netlify,vscode,figma,postman,npm&perline=8" />
-
-</div>
-
-<br>
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=html" width="45"/><br>
-<sub><b>HTML5</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=css" width="45"/><br>
-<sub><b>CSS3</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=js" width="45"/><br>
-<sub><b>JavaScript</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" width="45"/><br>
-<sub><b>React.js</b></sub>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>
-<sub><b>Node.js</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=express" width="45"/><br>
-<sub><b>Express.js</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=php" width="45"/><br>
-<sub><b>PHP</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=python" width="45"/><br>
-<sub><b>Python</b></sub>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>
-<sub><b>MySQL</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>
-<sub><b>MongoDB</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=firebase" width="45"/><br>
-<sub><b>Firebase</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=supabase" width="45"/><br>
-<sub><b>Supabase</b></sub>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>
-<sub><b>Tailwind</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>
-<sub><b>Bootstrap</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" width="45"/><br>
-<sub><b>Git</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=github" width="45"/><br>
-<sub><b>GitHub</b></sub>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vercel" width="45"/><br>
-<sub><b>Vercel</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=netlify" width="45"/><br>
-<sub><b>Netlify</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=figma" width="45"/><br>
-<sub><b>Figma</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>
-<sub><b>VS Code</b></sub>
-</td>
-
-</tr>
-
-</table>
 
 <div align="center">
 
@@ -725,14 +667,6 @@ LLMs
 
 </p>
 
-
-
-# 📈 Contribution Graph
-<h2 align="center"> 💜 Contribution Graph </h2>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rim-sha47&bg_color=0D1117&color=A855F7&line=C084FC&point=FFFFFF&area=true&hide_border=true"/>
-</p>
 
 
 # 🚀 Development Snapshot
