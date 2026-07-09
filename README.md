@@ -567,81 +567,145 @@ LLMs
 
 <h2 align="center"> 🚀 Most Used Technologies </h2>
 
+
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap,nodejs,express,php,python,mysql,mongodb,firebase,supabase,git,github,vercel,netlify,vscode,figma,postman,npm&perline=8" />
+
+</div>
+
+<br>
+
 <table align="center">
 
 <tr>
 
-
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="40"/><br>
-<sub>CSS3</sub>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="45"/><br>
+<sub><b>HTML5</b></sub>
 </td>
 
-
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="40"/><br>
-<sub>React.js</sub>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="45"/><br>
+<sub><b>CSS3</b></sub>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>
-<sub>Node.js</sub>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=js" width="45"/><br>
+<sub><b>JavaScript</b></sub>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=express" width="40"/><br>
-<sub>Express.js</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=php" width="40"/><br>
-<sub>PHP</sub>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="45"/><br>
+<sub><b>React.js</b></sub>
 </td>
 
 </tr>
 
 <tr>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="40"/><br>
-<sub>Python</sub>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>
+<sub><b>Node.js</b></sub>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>
-<sub>MySQL</sub>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=express" width="45"/><br>
+<sub><b>Express.js</b></sub>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>
-<sub>MongoDB</sub>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=php" width="45"/><br>
+<sub><b>PHP</b></sub>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="40"/><br>
-<sub>Git</sub>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="45"/><br>
+<sub><b>Python</b></sub>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="40"/><br>
-<sub>GitHub</sub>
+</tr>
+
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>
+<sub><b>MySQL</b></sub>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vercel" width="40"/><br>
-<sub>Vercel</sub>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>
+<sub><b>MongoDB</b></sub>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>
-<sub>VS Code</sub>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=firebase" width="45"/><br>
+<sub><b>Firebase</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=supabase" width="45"/><br>
+<sub><b>Supabase</b></sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>
+<sub><b>Tailwind</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>
+<sub><b>Bootstrap</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="45"/><br>
+<sub><b>Git</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="45"/><br>
+<sub><b>GitHub</b></sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vercel" width="45"/><br>
+<sub><b>Vercel</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=netlify" width="45"/><br>
+<sub><b>Netlify</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=figma" width="45"/><br>
+<sub><b>Figma</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>
+<sub><b>VS Code</b></sub>
 </td>
 
 </tr>
 
 </table>
+
+<div align="center">
+
+### 💜 Full Stack Developer | MERN Stack Learner | AI Enthusiast | UI/UX Lover
+
+</div>
 
 ---
 
@@ -662,77 +726,6 @@ LLMs
 </p>
 
 
-<h2 align="center"> 🌐 Connect With Me </h2>
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="120">
-
-<a href="https://github.com/Rim-sha47">
-
-<img src="https://skillicons.dev/icons?i=github" width="50"/><br>
-
-<sub><b>GitHub</b></sub>
-
-</a>
-
-</td>
-
-<td align="center" width="120">
-
-<a href="mailto:rimshariaz327@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/><br>
-
-<sub><b>Email</b></sub>
-
-</a>
-
-</td>
-
-<td align="center" width="120">
-
-<a href="https://rimsha-dev.vercel.app">
-
-<img src="https://img.icons8.com/color/48/domain.png" width="50"/><br>
-
-<sub><b>Portfolio</b></sub>
-
-</a>
-
-</td>
-
-<td align="center" width="120">
-
-<a href="https://leetcode.com/u/rimshariaz/">
-
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50"/><br>
-
-
-
-</a>
-
-</td>
-
-<td align="center" width="120">
-
-<a href="https://www.fiverr.com/rimshariaz327">
-
-<img src="https://img.icons8.com/color/48/fiverr.png" width="50"/><br>
-
-<sub><b>Fiverr</b></sub>
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 <h2 align="center"> 🔥 GitHub Streak </h2>
 
