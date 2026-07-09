@@ -754,17 +754,14 @@ LLMs
 
 </p>
 
-
-
-
-
 # 📈 Contribution Graph
+<h2 align="center"> 💜 Contribution Graph </h2>
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rim-sha47&bg_color=0D1117&color=A855F7&line=C084FC&point=FFFFFF&area=true&hide_border=true"/>
+</p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rim-sha47&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=C084FC&point=FFFFFF"/>
-
-</div>
+---
 
 
 
@@ -810,6 +807,37 @@ LLMs
 | Cloud Deployment | 🚀 Improving |
 
 </div>
+---
+
+<h2 align="center"> 📊 GitHub Analytics </h2>
+
+<p align="center">
+
+<img width="48%" height="195" src="https://github-readme-stats.vercel.app/api?username=Rim-sha47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="48%" height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rim-sha47&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rim-sha47&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rim-sha47&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rim-sha47&bg_color=0D1117&color=A855F7&line=C084FC&point=FFFFFF&area=true&hide_border=true"/>
+
+</p>
+
+---
 
 ---
 
