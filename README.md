@@ -727,15 +727,6 @@ LLMs
 
 
 
-<h2 align="center"> 🔥 GitHub Streak </h2>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rim-sha47&theme=midnight-purple&hide_border=true"/>
-
-</p>
-
-
 
 <h2 align="center"> 📊 GitHub Stats </h2>
 
@@ -754,18 +745,6 @@ LLMs
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rim-sha47&bg_color=0D1117&color=A855F7&line=C084FC&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
----
-
-
-
-
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rim-sha47&theme=github_dark"/>
-
-
-</div>
 
 
 
@@ -812,17 +791,7 @@ LLMs
 
 </p>
 
-<p align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rim-sha47&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rim-sha47&theme=tokyonight"/>
-
-</p>
 
 <p align="center">
 
@@ -830,9 +799,7 @@ LLMs
 
 </p>
 
----
 
----
 
 # 💎 Coding Philosophy
 
