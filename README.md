@@ -414,8 +414,27 @@ Supabase
 </table>
 
 </div>
+## 📊 GitHub Stats & Analytics
 
----
+```bash
+┌──(rimsha㉿github)-[~/analytics]
+└─$ cat github_profile.log
+```
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img width="49%"
+       src="https://github-readme-stats.vercel.app/api?username=Rim-sha47&show_icons=true&theme=midnight-purple&bg_color=0D1117&border_color=A855F7&title_color=C084FC&text_color=FFFFFF&icon_color=A855F7&count_private=true&include_all_commits=true" />
+
+  <!-- Streak Stats -->
+  <img width="49%"
+       src="https://streak-stats.demolab.com?user=Rim-sha47&theme=midnight-purple&background=0D1117&border=A855F7&ring=C084FC&fire=A855F7&currStreakLabel=C084FC&sideLabels=C084FC&dates=FFFFFF" />
+
+</div>
+
+<br/>
+
 
 # ☁️ Deployment & Cloud
 
