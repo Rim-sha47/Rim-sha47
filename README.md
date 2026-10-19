@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6D28D9,25:8B5CF6,50:A855F7,75:C084FC,100:E879F9&text=Hi%20👋,%20I'm%20Rimsha%20Riaz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20in%20Progress&descAlignY=60&descSize=20"/>
@@ -33,21 +32,18 @@
 </h1>
 
 
----
-
 <div align="center">
 
 <h2>💜 RIMSHA.DEV — LUXURY SUPERCAR GARAGE</h2>
 
 <p>Welcome to my world of code, speed and luxury.</p>
 
-<img src="bmw.jpg" width="48%" alt="BMW M4"/>
-<img src="lamborghini.jpg" width="48%" alt="Lamborghini Revuelto"/>
+<img src="./cars-images/bmw.jpg" width="48%" alt="BMW M4"/>
+<img src="./cars-images/lamborghini.jpg" width="48%" alt="Lamborghini Revuelto"/>
 
-<br/>
 
-<img src="bugatti.jpg" width="48%" alt="Bugatti Chiron"/>
-<img src="ferrari.jpg" width="48%" alt="Ferrari SF90"/>
+<img src="./cars-images/bugatti.jpg" width="48%" alt="Bugatti Chiron"/>
+<img src="./cars-images/ferrari.jpg" width="48%" alt="Ferrari SF90"/>
 
 <h3>🏎️ BMW • LAMBORGHINI • BUGATTI • FERRARI</h3>
 
@@ -55,14 +51,12 @@
 
 </div>
 
----
-
-
 <h3 align="center">
 
 
 Full Stack Web Developer • React Developer • PHP Developer • Python Developer • AI Enthusiast
 </h3>
+
 
 💜 About Me
 <img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
@@ -84,7 +78,7 @@ My goal is to become an AI-powered Software Engineer capable of building enterpr
 - 🤖 AI Powered Applications
 - 🐍 Python Desktop Applications
 - ☁️ Deployment & Hosting
-💎 Developer Highlights
+  💎 Developer Highlights
 <table>
 
 <tr>
@@ -99,9 +93,7 @@ My goal is to become an AI-powered Software Engineer capable of building enterpr
 - ✅ Database Design
 - ✅ Responsive UI
 - ✅ Clean Code
-- ✅ Modern Architecture
-</td>
-
+- ✅ Modern Architecture</td>
 <td width="50%">
 
 🤖 AI Journey
@@ -112,9 +104,7 @@ My goal is to become an AI-powered Software Engineer capable of building enterpr
 - 🚀 AI APIs
 - 🚀 LangChain (Learning)
 - 🚀 RAG (Learning)
-- 🚀 AI Automation
-</td>
-
+- 🚀 AI Automation</td>
 </tr>
 
 </table>
@@ -134,9 +124,8 @@ Passionate Full Stack Developer focused on building modern, scalable and respons
 - 🎨 UI/UX Lover
 - 🚀 Continuous Learner
 - 💜 Open Source Explorer
-🎯 Current Focus
-✔ Building Real World Projects
-
+  🎯 Current Focus
+  ✔ Building Real World Projects
 ✔ Learning Artificial Intelligence
 
 ✔ Prompt Engineering
@@ -154,8 +143,10 @@ Passionate Full Stack Developer focused on building modern, scalable and respons
 ✔ Cloud Deployment
 <div align="center">
 
+
 💜 "Code with Passion • Learn with Curiosity • Build with Purpose"
 </div>
+
 
 🚀 Tech Stack
 <div align="center">
@@ -163,6 +154,7 @@ Passionate Full Stack Developer focused on building modern, scalable and respons
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,sass,nodejs,express,php,python,mysql,mongodb,firebase,supabase,git,github,vercel,netlify,render,vscode,postman,figma,npm" />
 
 </div>
+
 
 💻 Programming Languages
 <div align="center">
@@ -175,6 +167,7 @@ Passionate Full Stack Developer focused on building modern, scalable and respons
 
 <img src="https://skillicons.dev/icons?i=html" width="55"/>
 
+
 <b>HTML5</b>
 </td>
 
@@ -182,6 +175,7 @@ Passionate Full Stack Developer focused on building modern, scalable and respons
 
 
 <img src="https://skillicons.dev/icons?i=css" width="55"/>
+
 
 <b>CSS3</b>
 </td>
@@ -191,6 +185,7 @@ Passionate Full Stack Developer focused on building modern, scalable and respons
 
 <img src="https://skillicons.dev/icons?i=js" width="55"/>
 
+
 <b>JavaScript</b>
 </td>
 
@@ -198,6 +193,7 @@ Passionate Full Stack Developer focused on building modern, scalable and respons
 
 
 <img src="https://skillicons.dev/icons?i=ts" width="55"/>
+
 
 <b>TypeScript</b>
 </td>
@@ -211,6 +207,7 @@ Passionate Full Stack Developer focused on building modern, scalable and respons
 
 <img src="https://skillicons.dev/icons?i=php" width="55"/>
 
+
 <b>PHP</b>
 </td>
 
@@ -218,6 +215,7 @@ Passionate Full Stack Developer focused on building modern, scalable and respons
 
 
 <img src="https://skillicons.dev/icons?i=python" width="55"/>
+
 
 <b>Python</b>
 </td>
@@ -227,6 +225,7 @@ Passionate Full Stack Developer focused on building modern, scalable and respons
 
 <img src="https://skillicons.dev/icons?i=c" width="55"/>
 
+
 <b>C</b>
 </td>
 
@@ -234,6 +233,7 @@ Passionate Full Stack Developer focused on building modern, scalable and respons
 
 
 <img src="https://img.icons8.com/color/96/source-code.png" width="55"/>
+
 
 <b>Problem Solving</b>
 </td>
@@ -243,6 +243,7 @@ Passionate Full Stack Developer focused on building modern, scalable and respons
 </table>
 
 </div>
+
 
 
 
@@ -257,6 +258,7 @@ Passionate Full Stack Developer focused on building modern, scalable and respons
 
 <img src="https://skillicons.dev/icons?i=react" width="55"/>
 
+
 React.js
 </td>
 
@@ -264,6 +266,7 @@ React.js
 
 
 <img src="https://skillicons.dev/icons?i=nextjs" width="55"/>
+
 
 Next.js
 </td>
@@ -273,6 +276,7 @@ Next.js
 
 <img src="https://skillicons.dev/icons?i=vite" width="55"/>
 
+
 Vite
 </td>
 
@@ -280,6 +284,7 @@ Vite
 
 
 <img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
+
 
 Tailwind
 </td>
@@ -293,6 +298,7 @@ Tailwind
 
 <img src="https://skillicons.dev/icons?i=bootstrap" width="55"/>
 
+
 Bootstrap
 </td>
 
@@ -300,6 +306,7 @@ Bootstrap
 
 
 <img src="https://skillicons.dev/icons?i=sass" width="55"/>
+
 
 Sass
 </td>
@@ -309,6 +316,7 @@ Sass
 
 <img src="https://skillicons.dev/icons?i=figma" width="55"/>
 
+
 Figma
 </td>
 
@@ -316,6 +324,7 @@ Figma
 
 
 <img src="https://img.icons8.com/color/96/web-design.png" width="55"/>
+
 
 Responsive UI
 </td>
@@ -325,6 +334,7 @@ Responsive UI
 </table>
 
 </div>
+
 
 
 
@@ -339,6 +349,7 @@ Responsive UI
 
 <img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
 
+
 Node.js
 </td>
 
@@ -346,6 +357,7 @@ Node.js
 
 
 <img src="https://skillicons.dev/icons?i=express" width="55"/>
+
 
 Express.js
 </td>
@@ -355,6 +367,7 @@ Express.js
 
 <img src="https://skillicons.dev/icons?i=php" width="55"/>
 
+
 PHP
 </td>
 
@@ -362,6 +375,7 @@ PHP
 
 
 <img src="https://img.icons8.com/color/96/api-settings.png" width="55"/>
+
 
 REST API
 </td>
@@ -371,6 +385,7 @@ REST API
 </table>
 
 </div>
+
 
 🗄️ Databases
 <div align="center">
@@ -383,6 +398,7 @@ REST API
 
 <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
 
+
 MySQL
 </td>
 
@@ -390,6 +406,7 @@ MySQL
 
 
 <img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
+
 
 MongoDB
 </td>
@@ -399,6 +416,7 @@ MongoDB
 
 <img src="https://skillicons.dev/icons?i=firebase" width="55"/>
 
+
 Firebase
 </td>
 
@@ -406,6 +424,7 @@ Firebase
 
 
 <img src="https://skillicons.dev/icons?i=supabase" width="55"/>
+
 
 Supabase
 </td>
@@ -415,6 +434,7 @@ Supabase
 </table>
 
 </div>
+
 
 ☁️ Deployment & Cloud
 <div align="center">
@@ -427,6 +447,7 @@ Supabase
 
 <img src="https://skillicons.dev/icons?i=vercel" width="55"/>
 
+
 Vercel
 </td>
 
@@ -434,6 +455,7 @@ Vercel
 
 
 <img src="https://skillicons.dev/icons?i=netlify" width="55"/>
+
 
 Netlify
 </td>
@@ -443,6 +465,7 @@ Netlify
 
 <img src="https://skillicons.dev/icons?i=render" width="55"/>
 
+
 Render
 </td>
 
@@ -450,6 +473,7 @@ Render
 
 
 <img src="https://img.icons8.com/color/96/cloud.png" width="55"/>
+
 
 Cloud
 </td>
@@ -459,6 +483,7 @@ Cloud
 </table>
 
 </div>
+
 
 🤖 Artificial Intelligence
 <div align="center">
@@ -471,6 +496,7 @@ Cloud
 
 <img src="https://skillicons.dev/icons?i=python" width="55"/>
 
+
 Python AI
 </td>
 
@@ -478,6 +504,7 @@ Python AI
 
 
 <img src="https://img.icons8.com/color/96/chatgpt.png" width="55"/>
+
 
 ChatGPT
 </td>
@@ -487,6 +514,7 @@ ChatGPT
 
 <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="55"/>
 
+
 Generative AI
 </td>
 
@@ -494,6 +522,7 @@ Generative AI
 
 
 <img src="https://img.icons8.com/color/96/brain.png" width="55"/>
+
 
 Prompt Engineering
 </td>
@@ -507,6 +536,7 @@ Prompt Engineering
 
 <img src="https://img.icons8.com/color/96/bot.png" width="55"/>
 
+
 AI Agents
 </td>
 
@@ -514,6 +544,7 @@ AI Agents
 
 
 <img src="https://img.icons8.com/color/96/network.png" width="55"/>
+
 
 LangChain
 </td>
@@ -523,6 +554,7 @@ LangChain
 
 <img src="https://img.icons8.com/color/96/database.png" width="55"/>
 
+
 RAG
 </td>
 
@@ -530,6 +562,7 @@ RAG
 
 
 <img src="https://img.icons8.com/color/96/robot-2.png" width="55"/>
+
 
 LLMs
 </td>
@@ -542,12 +575,14 @@ LLMs
 
 
 
+
 🛠️ Development Tools
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,npm,powershell,linux" />
 
 </div>
+
 
 
 
@@ -563,8 +598,6 @@ Authentication	⭐⭐⭐⭐⭐
 Database Design	⭐⭐⭐⭐☆
 AI Integration	⭐⭐⭐⭐☆
 Problem Solving	⭐⭐⭐⭐⭐
-
-
 <h2 align="center"> 🚀 Most used technologies </h2>
 
 <p align="center">
@@ -645,6 +678,7 @@ Problem Solving	⭐⭐⭐⭐⭐
 
 <div align="center">
 
+
 💜 Full Stack Developer | MERN Stack Learner | AI Enthusiast | UI/UX Lover
 </div>
 
@@ -655,6 +689,7 @@ Problem Solving	⭐⭐⭐⭐⭐
 
 <!-- Upload the supplied GIF to your repository at assets/luxury-road.gif -->
 <img src="./assets/luxury-road.gif" width="100%" alt="Animated luxury cars racing on a neon purple road"/>
+
 
 🏁 DREAM GARAGE
 <img src="https://img.shields.io/badge/BMW-M%20Performance-8B5CF6?style=for-the-badge&logo=bmw&logoColor=white"/>
@@ -671,6 +706,7 @@ Code is my track. Every project is another lap. 💜
 
 <p align="center">
 
+
 🌐 <a href="https://rimsha-dev.vercel.app">Portfolio</a>     
 
 🐍 <a href="https://rim-sha47.github.io/SnakeGame/">Snake Game</a>     
@@ -682,8 +718,10 @@ Code is my track. Every project is another lap. 💜
 
 
 
+
 🚀 Development Snapshot
 <div align="center">
+
 
 💜 Area	🚀 Status
 Full Stack Development	✅ Completed
@@ -699,16 +737,16 @@ Prompt Engineering	🚀 Learning
 AI Agents	📚 Exploring
 LangChain	📚 Exploring
 Cloud Deployment	🚀 Improving
-
-
 </div>
 ## 📊 GitHub Stats 
+
 
 ┌──(rimsha㉿github)-[~/analytics]
 └─$ cat github_profile.log
 <div align="center">
 
   <!-- GitHub Stats -->
+
   <img width="49%"
        src="https://github-readme-stats.vercel.app/api?username=Rim-sha47&show_icons=true&theme=midnight-purple&bg_color=0D1117&border_color=A855F7&title_color=C084FC&text_color=FFFFFF&icon_color=A855F7&count_private=true&include_all_commits=true" />
   <!-- Streak Stats -->
@@ -738,12 +776,15 @@ Cloud Deployment	🚀 Improving
 
 
 
+
 💎 Coding Philosophy
 <div align="center">
+
 
 💜 "Build clean. Build responsive. Build scalable."
 ✨ Code Quality • Performance • UI/UX • Security • Scalability
 </div>
+
 
 🎓 Education
 <div align="center">
@@ -768,6 +809,7 @@ Cloud Deployment	🚀 Improving
 
 <td>
 
+
 🎓 Bachelor of Science in Information Technology
 🏫 Superior University, Sargodha
 
@@ -782,15 +824,14 @@ Cloud Deployment	🚀 Improving
 - Object Oriented Programming
 - Computer Networks
 - Artificial Intelligence
-- Data Structures & Algorithms
-</td>
-
+- Data Structures & Algorithms</td>
 </tr>
 
 </table>
 
 🏆 Certifications
 <div align="center">
+
 
 💜 Certification	✅ Status
 Full Stack Web Development	✅ Completed
@@ -803,12 +844,12 @@ MongoDB	✅ Completed
 REST API Development	✅ Completed
 Prompt Engineering	🚀 Learning
 Artificial Intelligence	🚀 Learning
-
-
 </div>
+
 
 🌟 Achievements
 <div align="center">
+
 
 🏆 Built Multiple Real World Projects
 
@@ -826,6 +867,7 @@ Artificial Intelligence	🚀 Learning
 
 🏆 Continuous Skill Improvement
 </div>
+
 
 📚 Currently Learning
 🤖 Artificial Intelligence
@@ -868,8 +910,10 @@ Artificial Intelligence	🚀 Learning
 
 </div>
 
+
 📫 Contact Information
 <div align="center">
+
 
 💜 Platform	🔗 Link
 📧 Email	rimshariaz327@gmail.com
@@ -878,12 +922,12 @@ Artificial Intelligence	🚀 Learning
 💼 Fiverr	fiverr.com/rimshariaz327
 🧩 LeetCode	leetcode.com/u/rimshariaz
 📍 Location	Sargodha, Punjab, Pakistan 🇵🇰
-
-
 </div>
+
 
 💜 Developer Motto
 <div align="center">
+
 
 ✨ "Code with Passion. Learn with Curiosity. Build with Purpose."
 🚀 Always Building • Always Learning • Always Improving
@@ -891,8 +935,8 @@ Artificial Intelligence	🚀 Learning
 
 <div align="center">
 
+
 💜 Thanks for Visiting My GitHub Profile 💜
 ⭐ If you like my work, don't forget to Star my repositories.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:6D28D9,25:8B5CF6,50:A855F7,75:C084FC,100:E879F9"/>
-
 </div>
