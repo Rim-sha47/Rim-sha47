@@ -38,12 +38,13 @@
 
 <p>Welcome to my world of code, speed and luxury.</p>
 
-<img src="./cars-images/bmw.jpg" width="48%" alt="BMW M4"/>
-<img src="./cars-images/lamborghini.jpg" width="48%" alt="Lamborghini Revuelto"/>
+<img src="./cars-images/BMW.jpg" width="48%" alt="BMW M4"/>
+<img src="./cars-images/Lamborghini.jpg
+" width="48%" alt="Lamborghini Revuelto"/>
 
 
-<img src="./cars-images/bugatti.jpg" width="48%" alt="Bugatti Chiron"/>
-<img src="./cars-images/ferrari.jpg" width="48%" alt="Ferrari SF90"/>
+<img src="./cars-images/Bugatti.jpg" width="48%" alt="Bugatti Chiron"/>
+<img src="./cars-images/Ferrari.jpg" width="48%" alt="Ferrari SF90"/>
 
 <h3>🏎️ BMW • LAMBORGHINI • BUGATTI • FERRARI</h3>
 
