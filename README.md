@@ -790,9 +790,6 @@ Cloud Deployment	🚀 Improving
 
 <img src="https://img.shields.io/badge/Bachelor-BS%20Information%20Technology-8B5CF6?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/University-Superior%20University-A855F7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CGPA-3.63%20%2F%204-C084FC?style=for-the-badge"/>
 
 </div>
 
