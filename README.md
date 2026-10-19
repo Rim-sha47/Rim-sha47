@@ -810,11 +810,8 @@ Cloud Deployment	🚀 Improving
 
 
 🎓 Bachelor of Science in Information Technology
-🏫 Superior University, Sargodha
 
 📍 Punjab, Pakistan
-
-🎯 CGPA: 3.63 / 4.00
 
 📚 Relevant Coursework
 - Web Development
