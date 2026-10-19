@@ -32,6 +32,32 @@
 💜 Welcome To My GitHub Profile 💜
 </h1>
 
+
+---
+
+<div align="center">
+
+<h2>💜 RIMSHA.DEV — LUXURY SUPERCAR GARAGE</h2>
+
+<p>Welcome to my world of code, speed and luxury.</p>
+
+<img src="bmw.jpg" width="48%" alt="BMW M4"/>
+<img src="lamborghini.jpg" width="48%" alt="Lamborghini Revuelto"/>
+
+<br/>
+
+<img src="bugatti.jpg" width="48%" alt="Bugatti Chiron"/>
+<img src="ferrari.jpg" width="48%" alt="Ferrari SF90"/>
+
+<h3>🏎️ BMW • LAMBORGHINI • BUGATTI • FERRARI</h3>
+
+<p><b>Dream Fast. Code Faster. Build Your Own World.</b></p>
+
+</div>
+
+---
+
+
 <h3 align="center">
 
 
