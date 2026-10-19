@@ -1,19 +1,3 @@
-<div align="center">
-
-<img src="assets/rimsha-coding-girl.png" width="100%" alt="Rimsha.dev anime coding setup"/>
-
-<h1>💜 RIMSHA.DEV</h1>
-
-<h3>🏎️ LUXURY SUPERCAR RACING EXPERIENCE</h3>
-
-<img src="assets/luxury-road.gif" width="100%" alt="Luxury cars racing on a neon road"/>
-
-**BMW M4 • Lamborghini Revuelto • Ferrari SF90 • Bugatti Chiron**
-
-*Dream Fast. Code Faster. 🚀*
-
-</div>
-
 
 <div align="center">
 
