@@ -40,7 +40,7 @@
 
 <img src="./cars-images/BMW.jpg" width="48%" alt="BMW M4"/>
 <img src="./cars-images/Lamborghini.jpg
-" width="48%" alt=""/>
+" width="48%" alt="cars-images/Lamborghini.jpg"/>
 
 
 <img src="./cars-images/Bugatti.jpg" width="48%" alt="Bugatti Chiron"/>
