@@ -39,9 +39,7 @@
 <p>Welcome to my world of code, speed and luxury.</p>
 
 <img src="./cars-images/BMW.jpg" width="48%" alt="BMW M4"/>
-<img src="./cars-images/Lamborghini.jpg
-" width="48%" alt="cars-images/Lamborghini.jpg"/>
-
+<img src="./cars-images/Lamborghini.jpg" width="48%" alt="Lamborghini"/>
 
 <img src="./cars-images/Bugatti.jpg" width="48%" alt="Bugatti Chiron"/>
 <img src="./cars-images/Ferrari.jpg" width="48%" alt="Ferrari SF90"/>
