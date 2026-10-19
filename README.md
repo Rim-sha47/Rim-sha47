@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Rim-sha47&label=Profile%20Views&style=for-the-badge&color=8A2BE2"/>
@@ -22,46 +20,33 @@
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=950&height=70&lines=💜+Full+Stack+Web+Developer;⚛️+React.js+Developer;🚀+MERN+Stack+Developer;🤖+AI+Engineer+in+Progress;🐍+Python+Developer;💻+Building+Modern+Web+Applications;🌐+Responsive+UI+Designer;☁️+Cloud+%26+Deployment;✨+Always+Learning+New+Technologies"/>
 
 </div>
 
----
-
 <h1 align="center">
 
 💜 Welcome To My GitHub Profile 💜
-
 </h1>
 
 <h3 align="center">
 
-Full Stack Web Developer • React Developer • PHP Developer • Python Developer • AI Enthusiast
 
+Full Stack Web Developer • React Developer • PHP Developer • Python Developer • AI Enthusiast
 </h3>
 
----
-
-# 💜 About Me
-
+💜 About Me
 <img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-### 👋 Hello, I'm Rimsha Riaz
-
-I'm a passionate **Full Stack Web Developer** from **Pakistan 🇵🇰** who enjoys building responsive, scalable and user-friendly web applications.
+👋 Hello, I'm Rimsha Riaz
+I'm a passionate Full Stack Web Developer from Pakistan 🇵🇰 who enjoys building responsive, scalable and user-friendly web applications.
 
 I love transforming ideas into real-world software using modern technologies while continuously learning Artificial Intelligence and intelligent software systems.
 
-My goal is to become an **AI-powered Software Engineer** capable of building enterprise applications, automation tools and innovative AI products.
-
----
-
-## 🚀 What I Do
-
+My goal is to become an AI-powered Software Engineer capable of building enterprise applications, automation tools and innovative AI products.
+🚀 What I Do
 - 💜 Build Responsive Websites
 - 🌐 Develop Full Stack Applications
 - ⚛️ Create React.js Projects
@@ -72,19 +57,14 @@ My goal is to become an **AI-powered Software Engineer** capable of building ent
 - 🤖 AI Powered Applications
 - 🐍 Python Desktop Applications
 - ☁️ Deployment & Hosting
-
----
-
-## 💎 Developer Highlights
-
+💎 Developer Highlights
 <table>
 
 <tr>
 
 <td width="50%">
 
-### 👩‍💻 Development
-
+👩‍💻 Development
 - ✅ Full Stack Development
 - ✅ Frontend Specialist
 - ✅ Backend Development
@@ -93,13 +73,11 @@ My goal is to become an **AI-powered Software Engineer** capable of building ent
 - ✅ Responsive UI
 - ✅ Clean Code
 - ✅ Modern Architecture
-
 </td>
 
 <td width="50%">
 
-### 🤖 AI Journey
-
+🤖 AI Journey
 - 🚀 Prompt Engineering
 - 🚀 Generative AI
 - 🚀 LLM Applications
@@ -108,7 +86,6 @@ My goal is to become an **AI-powered Software Engineer** capable of building ent
 - 🚀 LangChain (Learning)
 - 🚀 RAG (Learning)
 - 🚀 AI Automation
-
 </td>
 
 </tr>
@@ -117,14 +94,10 @@ My goal is to become an **AI-powered Software Engineer** capable of building ent
 
 
 
-# 🌟 Professional Summary
+🌟 Professional Summary
+Passionate Full Stack Developer focused on building modern, scalable and responsive web applications with clean UI/UX and efficient backend systems. Currently expanding expertise in Artificial Intelligence to develop intelligent software solutions for real-world problems.
 
-> Passionate Full Stack Developer focused on building modern, scalable and responsive web applications with clean UI/UX and efficient backend systems. Currently expanding expertise in Artificial Intelligence to develop intelligent software solutions for real-world problems.
-
-
-
-## ⚡ Quick Facts
-
+⚡ Quick Facts
 - 💻 Full Stack Web Developer
 - 🌐 MERN Stack Learner
 - ⚛️ React.js Developer
@@ -134,12 +107,7 @@ My goal is to become an **AI-powered Software Engineer** capable of building ent
 - 🎨 UI/UX Lover
 - 🚀 Continuous Learner
 - 💜 Open Source Explorer
-
-
-
-## 🎯 Current Focus
-
-```text
+🎯 Current Focus
 ✔ Building Real World Projects
 
 ✔ Learning Artificial Intelligence
@@ -157,28 +125,19 @@ My goal is to become an **AI-powered Software Engineer** capable of building ent
 ✔ MongoDB
 
 ✔ Cloud Deployment
-```
-
----
-
 <div align="center">
 
-### 💜 "Code with Passion • Learn with Curiosity • Build with Purpose"
-
+💜 "Code with Passion • Learn with Curiosity • Build with Purpose"
 </div>
 
-# 🚀 Tech Stack
-
+🚀 Tech Stack
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,sass,nodejs,express,php,python,mysql,mongodb,firebase,supabase,git,github,vercel,netlify,render,vscode,postman,figma,npm" />
 
 </div>
 
----
-
-# 💻 Programming Languages
-
+💻 Programming Languages
 <div align="center">
 
 <table>
@@ -187,30 +146,33 @@ My goal is to become an **AI-powered Software Engineer** capable of building ent
 
 <td align="center" width="120">
 
-<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=html" width="55"/>
+
 <b>HTML5</b>
-
 </td>
 
 <td align="center" width="120">
 
-<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=css" width="55"/>
+
 <b>CSS3</b>
-
 </td>
 
 <td align="center" width="120">
 
-<img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=js" width="55"/>
+
 <b>JavaScript</b>
-
 </td>
 
 <td align="center" width="120">
 
-<img src="https://skillicons.dev/icons?i=ts" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=ts" width="55"/>
+
 <b>TypeScript</b>
-
 </td>
 
 </tr>
@@ -219,30 +181,34 @@ My goal is to become an **AI-powered Software Engineer** capable of building ent
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=php" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=php" width="55"/>
+
 <b>PHP</b>
-
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+
 <b>Python</b>
-
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=c" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=c" width="55"/>
+
 <b>C</b>
-
 </td>
 
 <td align="center">
 
-<img src="https://img.icons8.com/color/96/source-code.png" width="55"/><br>
+
+<img src="https://img.icons8.com/color/96/source-code.png" width="55"/>
+
 <b>Problem Solving</b>
-
 </td>
 
 </tr>
@@ -253,8 +219,7 @@ My goal is to become an **AI-powered Software Engineer** capable of building ent
 
 
 
-# 🎨 Frontend Development
-
+🎨 Frontend Development
 <div align="center">
 
 <table>
@@ -263,30 +228,33 @@ My goal is to become an **AI-powered Software Engineer** capable of building ent
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=react" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=react" width="55"/>
+
 React.js
-
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=nextjs" width="55"/>
+
 Next.js
-
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=vite" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=vite" width="55"/>
+
 Vite
-
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
+
 Tailwind
-
 </td>
 
 </tr>
@@ -295,30 +263,34 @@ Tailwind
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55"/>
+
 Bootstrap
-
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=sass" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=sass" width="55"/>
+
 Sass
-
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=figma" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=figma" width="55"/>
+
 Figma
-
 </td>
 
 <td align="center">
 
-<img src="https://img.icons8.com/color/96/web-design.png" width="55"/><br>
+
+<img src="https://img.icons8.com/color/96/web-design.png" width="55"/>
+
 Responsive UI
-
 </td>
 
 </tr>
@@ -329,8 +301,7 @@ Responsive UI
 
 
 
-# ⚙️ Backend Development
-
+⚙️ Backend Development
 <div align="center">
 
 <table>
@@ -339,30 +310,33 @@ Responsive UI
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+
 Node.js
-
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=express" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=express" width="55"/>
+
 Express.js
-
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=php" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=php" width="55"/>
+
 PHP
-
 </td>
 
 <td align="center">
 
-<img src="https://img.icons8.com/color/96/api-settings.png" width="55"/><br>
+
+<img src="https://img.icons8.com/color/96/api-settings.png" width="55"/>
+
 REST API
-
 </td>
 
 </tr>
@@ -371,10 +345,7 @@ REST API
 
 </div>
 
----
-
-# 🗄️ Databases
-
+🗄️ Databases
 <div align="center">
 
 <table>
@@ -383,30 +354,33 @@ REST API
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+
 MySQL
-
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
+
 MongoDB
-
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=firebase" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=firebase" width="55"/>
+
 Firebase
-
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=supabase" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=supabase" width="55"/>
+
 Supabase
-
 </td>
 
 </tr>
@@ -415,8 +389,7 @@ Supabase
 
 </div>
 
-# ☁️ Deployment & Cloud
-
+☁️ Deployment & Cloud
 <div align="center">
 
 <table>
@@ -425,30 +398,33 @@ Supabase
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=vercel" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=vercel" width="55"/>
+
 Vercel
-
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=netlify" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=netlify" width="55"/>
+
 Netlify
-
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=render" width="55"/><br>
+
+<img src="https://skillicons.dev/icons?i=render" width="55"/>
+
 Render
-
 </td>
 
 <td align="center">
 
-<img src="https://img.icons8.com/color/96/cloud.png" width="55"/><br>
-Cloud
 
+<img src="https://img.icons8.com/color/96/cloud.png" width="55"/>
+
+Cloud
 </td>
 
 </tr>
@@ -457,10 +433,7 @@ Cloud
 
 </div>
 
----
-
-# 🤖 Artificial Intelligence
-
+🤖 Artificial Intelligence
 <div align="center">
 
 <table>
@@ -469,30 +442,33 @@ Cloud
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+
 Python AI
-
 </td>
 
 <td align="center">
 
-<img src="https://img.icons8.com/color/96/chatgpt.png" width="55"/><br>
+
+<img src="https://img.icons8.com/color/96/chatgpt.png" width="55"/>
+
 ChatGPT
-
 </td>
 
 <td align="center">
 
-<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="55"/><br>
+
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="55"/>
+
 Generative AI
-
 </td>
 
 <td align="center">
 
-<img src="https://img.icons8.com/color/96/brain.png" width="55"/><br>
-Prompt Engineering
 
+<img src="https://img.icons8.com/color/96/brain.png" width="55"/>
+
+Prompt Engineering
 </td>
 
 </tr>
@@ -501,30 +477,34 @@ Prompt Engineering
 
 <td align="center">
 
-<img src="https://img.icons8.com/color/96/bot.png" width="55"/><br>
+
+<img src="https://img.icons8.com/color/96/bot.png" width="55"/>
+
 AI Agents
-
 </td>
 
 <td align="center">
 
-<img src="https://img.icons8.com/color/96/network.png" width="55"/><br>
+
+<img src="https://img.icons8.com/color/96/network.png" width="55"/>
+
 LangChain
-
 </td>
 
 <td align="center">
 
-<img src="https://img.icons8.com/color/96/database.png" width="55"/><br>
+
+<img src="https://img.icons8.com/color/96/database.png" width="55"/>
+
 RAG
-
 </td>
 
 <td align="center">
 
-<img src="https://img.icons8.com/color/96/robot-2.png" width="55"/><br>
-LLMs
 
+<img src="https://img.icons8.com/color/96/robot-2.png" width="55"/>
+
+LLMs
 </td>
 
 </tr>
@@ -535,8 +515,7 @@ LLMs
 
 
 
-# 🛠️ Development Tools
-
+🛠️ Development Tools
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,npm,powershell,linux" />
@@ -545,20 +524,20 @@ LLMs
 
 
 
-# 💎 Core Strengths
+💎 Core Strengths
+💜 Development	🚀 Expertise
+Responsive Web Design	⭐⭐⭐⭐⭐
+React.js Development	⭐⭐⭐⭐⭐
+Full Stack Development	⭐⭐⭐⭐⭐
+PHP & MySQL	⭐⭐⭐⭐☆
+MERN Stack	⭐⭐⭐⭐☆
+REST APIs	⭐⭐⭐⭐⭐
+Authentication	⭐⭐⭐⭐⭐
+Database Design	⭐⭐⭐⭐☆
+AI Integration	⭐⭐⭐⭐☆
+Problem Solving	⭐⭐⭐⭐⭐
 
-| 💜 Development | 🚀 Expertise |
-|---------------|-------------|
-| Responsive Web Design | ⭐⭐⭐⭐⭐ |
-| React.js Development | ⭐⭐⭐⭐⭐ |
-| Full Stack Development | ⭐⭐⭐⭐⭐ |
-| PHP & MySQL | ⭐⭐⭐⭐☆ |
-| MERN Stack | ⭐⭐⭐⭐☆ |
-| REST APIs | ⭐⭐⭐⭐⭐ |
-| Authentication | ⭐⭐⭐⭐⭐ |
-| Database Design | ⭐⭐⭐⭐☆ |
-| AI Integration | ⭐⭐⭐⭐☆ |
-| Problem Solving | ⭐⭐⭐⭐⭐ |
+
 <h2 align="center"> 🚀 Most used technologies </h2>
 
 <p align="center">
@@ -639,10 +618,25 @@ LLMs
 
 <div align="center">
 
-### 💜 Full Stack Developer | MERN Stack Learner | AI Enthusiast | UI/UX Lover
-
+💜 Full Stack Developer | MERN Stack Learner | AI Enthusiast | UI/UX Lover
 </div>
 
+
+<h2 align="center">🏎️ Luxury Garage • Night Racing</h2>
+
+<div align="center">
+
+<!-- Upload the supplied GIF to your repository at assets/luxury-road.gif -->
+<img src="./assets/luxury-road.gif" width="100%" alt="Animated luxury cars racing on a neon purple road"/>
+
+🏁 DREAM GARAGE
+<img src="https://img.shields.io/badge/BMW-M%20Performance-8B5CF6?style=for-the-badge&logo=bmw&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lamborghini-Super%20Sports-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ferrari-Italian%20Supercars-C084FC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bugatti-Hypercars-7C3AED?style=for-the-badge"/>
+
+Code is my track. Every project is another lap. 💜
+</div>
 
 <h2 align="center"> 🌍 Live Projects </h2>
 
@@ -650,59 +644,52 @@ LLMs
 
 <p align="center">
 
-🌐 <a href="https://rimsha-dev.vercel.app">Portfolio</a> &nbsp;  &nbsp;
+🌐 <a href="https://rimsha-dev.vercel.app">Portfolio</a>     
 
-🐍 <a href="https://rim-sha47.github.io/SnakeGame/">Snake Game</a> &nbsp;  &nbsp;
+🐍 <a href="https://rim-sha47.github.io/SnakeGame/">Snake Game</a>     
 
-🧩 <a href="https://wordhunt-kappa.vercel.app">Word Hunt</a> &nbsp; &nbsp;
+🧩 <a href="https://wordhunt-kappa.vercel.app">Word Hunt</a>    
 
 🏫 <a href="https://providenceschool-website.vercel.app/">Providence School</a>
-
 </p>
 
 
 
-# 🚀 Development Snapshot
-
+🚀 Development Snapshot
 <div align="center">
 
-| 💜 Area | 🚀 Status |
-|:----------------------------|:----------------:|
-| Full Stack Development | ✅ Completed |
-| Frontend Development | ✅ Advanced |
-| Backend Development | ✅ Advanced |
-| React.js | ✅ Strong |
-| PHP & MySQL | ✅ Strong |
-| MongoDB | ✅ Strong |
-| Python | ✅ Strong |
-| REST APIs | ✅ Strong |
-| Artificial Intelligence | 🚀 Learning |
-| Prompt Engineering | 🚀 Learning |
-| AI Agents | 📚 Exploring |
-| LangChain | 📚 Exploring |
-| Cloud Deployment | 🚀 Improving |
+💜 Area	🚀 Status
+Full Stack Development	✅ Completed
+Frontend Development	✅ Advanced
+Backend Development	✅ Advanced
+React.js	✅ Strong
+PHP & MySQL	✅ Strong
+MongoDB	✅ Strong
+Python	✅ Strong
+REST APIs	✅ Strong
+Artificial Intelligence	🚀 Learning
+Prompt Engineering	🚀 Learning
+AI Agents	📚 Exploring
+LangChain	📚 Exploring
+Cloud Deployment	🚀 Improving
+
 
 </div>
 ## 📊 GitHub Stats 
 
-```bash
 ┌──(rimsha㉿github)-[~/analytics]
 └─$ cat github_profile.log
-```
-
 <div align="center">
 
   <!-- GitHub Stats -->
   <img width="49%"
        src="https://github-readme-stats.vercel.app/api?username=Rim-sha47&show_icons=true&theme=midnight-purple&bg_color=0D1117&border_color=A855F7&title_color=C084FC&text_color=FFFFFF&icon_color=A855F7&count_private=true&include_all_commits=true" />
-
   <!-- Streak Stats -->
+
   <img width="49%"
        src="https://streak-stats.demolab.com?user=Rim-sha47&theme=midnight-purple&background=0D1117&border=A855F7&ring=C084FC&fire=A855F7&currStreakLabel=C084FC&sideLabels=C084FC&dates=FFFFFF" />
-
 </div>
 
-<br/>
 
 <h2 align="center"> 📊 GitHub Analytics </h2>
 
@@ -724,18 +711,14 @@ LLMs
 
 
 
-# 💎 Coding Philosophy
-
+💎 Coding Philosophy
 <div align="center">
 
-### 💜 *"Build clean. Build responsive. Build scalable."*
-
-**✨ Code Quality • Performance • UI/UX • Security • Scalability**
-
+💜 "Build clean. Build responsive. Build scalable."
+✨ Code Quality • Performance • UI/UX • Security • Scalability
 </div>
 
-# 🎓 Education
-
+🎓 Education
 <div align="center">
 
 <img src="https://img.shields.io/badge/Bachelor-BS%20Information%20Technology-8B5CF6?style=for-the-badge"/>
@@ -745,8 +728,6 @@ LLMs
 <img src="https://img.shields.io/badge/CGPA-3.63%20%2F%204-C084FC?style=for-the-badge"/>
 
 </div>
-
----
 
 <table align="center">
 
@@ -760,16 +741,14 @@ LLMs
 
 <td>
 
-### 🎓 Bachelor of Science in Information Technology
-
-🏫 **Superior University, Sargodha**
+🎓 Bachelor of Science in Information Technology
+🏫 Superior University, Sargodha
 
 📍 Punjab, Pakistan
 
-🎯 **CGPA:** **3.63 / 4.00**
+🎯 CGPA: 3.63 / 4.00
 
-📚 **Relevant Coursework**
-
+📚 Relevant Coursework
 - Web Development
 - Database Systems
 - Software Engineering
@@ -777,38 +756,31 @@ LLMs
 - Computer Networks
 - Artificial Intelligence
 - Data Structures & Algorithms
-
 </td>
 
 </tr>
 
 </table>
 
----
-
-# 🏆 Certifications
-
+🏆 Certifications
 <div align="center">
 
-| 💜 Certification | ✅ Status |
-|:-----------------|:---------:|
-| Full Stack Web Development | ✅ Completed |
-| React.js Development | ✅ Completed |
-| PHP & MySQL | ✅ Completed |
-| JavaScript | ✅ Completed |
-| Python Programming | ✅ Completed |
-| Git & GitHub | ✅ Completed |
-| MongoDB | ✅ Completed |
-| REST API Development | ✅ Completed |
-| Prompt Engineering | 🚀 Learning |
-| Artificial Intelligence | 🚀 Learning |
+💜 Certification	✅ Status
+Full Stack Web Development	✅ Completed
+React.js Development	✅ Completed
+PHP & MySQL	✅ Completed
+JavaScript	✅ Completed
+Python Programming	✅ Completed
+Git & GitHub	✅ Completed
+MongoDB	✅ Completed
+REST API Development	✅ Completed
+Prompt Engineering	🚀 Learning
+Artificial Intelligence	🚀 Learning
+
 
 </div>
 
----
-
-# 🌟 Achievements
-
+🌟 Achievements
 <div align="center">
 
 🏆 Built Multiple Real World Projects
@@ -826,14 +798,9 @@ LLMs
 🏆 AI Learning Journey
 
 🏆 Continuous Skill Improvement
-
 </div>
 
----
-
-# 📚 Currently Learning
-
-```text
+📚 Currently Learning
 🤖 Artificial Intelligence
 
 🧠 Generative AI
@@ -849,12 +816,7 @@ LLMs
 ☁️ Cloud Deployment
 
 🚀 Enterprise Application Development
-```
-
----
-
-# 🌍 Connect With Me
-
+🌍 Connect With Me
 <div align="center">
 
 <a href="https://github.com/Rim-sha47">
@@ -879,50 +841,31 @@ LLMs
 
 </div>
 
----
-
-# 📫 Contact Information
-
+📫 Contact Information
 <div align="center">
 
-| 💜 Platform | 🔗 Link |
-|:-----------|:--------|
-| 📧 Email | **rimshariaz327@gmail.com** |
-| 💻 GitHub | **github.com/Rim-sha47** |
-| 🌐 Portfolio | **rimsha-dev.vercel.app** |
-| 💼 Fiverr | **fiverr.com/rimshariaz327** |
-| 🧩 LeetCode | **leetcode.com/u/rimshariaz** |
-| 📍 Location | **Sargodha, Punjab, Pakistan 🇵🇰** |
+💜 Platform	🔗 Link
+📧 Email	rimshariaz327@gmail.com
+💻 GitHub	github.com/Rim-sha47
+🌐 Portfolio	rimsha-dev.vercel.app
+💼 Fiverr	fiverr.com/rimshariaz327
+🧩 LeetCode	leetcode.com/u/rimshariaz
+📍 Location	Sargodha, Punjab, Pakistan 🇵🇰
+
 
 </div>
 
----
-
-# 💜 Developer Motto
-
+💜 Developer Motto
 <div align="center">
 
-## ✨ *"Code with Passion. Learn with Curiosity. Build with Purpose."*
-
-### 🚀 Always Building • Always Learning • Always Improving
-
+✨ "Code with Passion. Learn with Curiosity. Build with Purpose."
+🚀 Always Building • Always Learning • Always Improving
 </div>
 
----
-
 <div align="center">
 
-## 💜 Thanks for Visiting My GitHub Profile 💜
-
-⭐ If you like my work, don't forget to **Star** my repositories.
-
+💜 Thanks for Visiting My GitHub Profile 💜
+⭐ If you like my work, don't forget to Star my repositories.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:6D28D9,25:8B5CF6,50:A855F7,75:C084FC,100:E879F9"/>
 
 </div>
-
-
-
-
-
-
-
