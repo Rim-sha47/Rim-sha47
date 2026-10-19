@@ -1,5 +1,22 @@
 <div align="center">
 
+<img src="assets/rimsha-coding-girl.png" width="100%" alt="Rimsha.dev anime coding setup"/>
+
+<h1>💜 RIMSHA.DEV</h1>
+
+<h3>🏎️ LUXURY SUPERCAR RACING EXPERIENCE</h3>
+
+<img src="assets/luxury-road.gif" width="100%" alt="Luxury cars racing on a neon road"/>
+
+**BMW M4 • Lamborghini Revuelto • Ferrari SF90 • Bugatti Chiron**
+
+*Dream Fast. Code Faster. 🚀*
+
+</div>
+
+
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6D28D9,25:8B5CF6,50:A855F7,75:C084FC,100:E879F9&text=Hi%20👋,%20I'm%20Rimsha%20Riaz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20in%20Progress&descAlignY=60&descSize=20"/>
 
 </div>
